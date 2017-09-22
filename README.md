@@ -6,9 +6,12 @@ Neste projeto, desenvolvi alguns métodos básicos em Angular-cli, dentre eles:
 - Class e Style binding
 - Event Binding
 - Two-Way-Binding
-- Input-Property
+- Input/Output-Property
+- Interpolation
 
 Obs. Os métodos no HTML estao comentados para facilitar na leitura ao executar, para testar cada um, basta descomentar 
+
+Para exeutar, basta entrar no diretório do arquivo e digitar 'ng server'
 
 # DataBinding
 
