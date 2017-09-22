@@ -1,3 +1,15 @@
+Olá,
+
+Neste projeto, desenvolvi alguns métodos básicos em Angular-cli, dentre eles:
+
+- Property Binding 
+- Class e Style binding
+- Event Binding
+- Two-Way-Binding
+- Input-Property
+
+Obs. Os métodos no HTML estao comentados para facilitar na leitura ao executar, para testar cada um, basta descomentar 
+
 # DataBinding
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
